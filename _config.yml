@@ -16,7 +16,7 @@ description: Hi, Im Cole! I am a senior at CAS studying Computer Science and am 
 # user name for GitHub.
 avatar: /weekly/images/profilepicture.jpeg
 # fallback text in case image is not served and/or for screen readers
-avatar_alt_text: Avatar
+avatar_alt_text: 
 # use this separator in your blogs to indicate where the abbreviated part ends and 
 # the "Read more ..." link apprears 
 excerpt_separator: <!--more-->
