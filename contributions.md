@@ -30,5 +30,6 @@ Replace the first row with your own contribution.
 | May 9   | [link](https://www.openstreetmap.org/changeset/151120294#map=19/40.95618/-73.96297)    | OpenStreet Map feature    |   Added location of the 9/11 memorial to Demarest, NJ   |
 | May 9   | [link](https://www.openstreetmap.org/changeset/151120386#map=17/40.95445/-73.96371)    | OpenStreet Map feature    |   Added location of fire station to Demarest, NJ  |
 | May 9   | [link](https://www.openstreetmap.org/changeset/151120416)    | OpenStreet Map feature    |   Added location of the town swimming club to Demarest, NJ  |
+| May 10   | [link](https://github.com/vczb/gamou/pull/337)    | Gamou README update   |  Made a PR of an issue to change all references of GAMOU to Gamou in the README  |
 |     |     |     |      |
 |     |     |     |      |
